@@ -9,6 +9,9 @@ The training data consists of a large collection of labeled images of cats and d
 # Requirements
 
 Python 3.6+
+
 TensorFlow 2.0+
+
 NumPy
+
 Matplotlib
